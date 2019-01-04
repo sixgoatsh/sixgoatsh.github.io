@@ -1,0 +1,2 @@
+# sixgoatsh.github.io
+blog
